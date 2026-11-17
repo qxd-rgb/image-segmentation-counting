@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# 运行产物
+metrics.json
+report_tmp.html
+report_print.html
+*.pdf
+
+# 系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+out/
